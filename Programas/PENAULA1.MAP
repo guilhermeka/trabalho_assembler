@@ -1,0 +1,11 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 007FFH 00800H PILHA              
+ 00800H 00839H 0003AH DADOS              
+ 00840H 00861H 00022H NOVO               
+ 00870H 0089CH 0002DH COD                
+
+Program entry point at 0087:0000
+Warning: No stack
+
